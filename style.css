@@ -1,0 +1,30 @@
+body{
+  font-family: monospace;
+}
+ul{
+  list-style-type: none;
+  padding: 0px;
+  overflow: hidden;
+  background-color: black;
+  margin: 0px;
+}
+li{
+  float: left;
+}
+li a{
+  font-size: 25px;
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  padding: 25px;
+  text-align: center;
+  display: block;
+}
+li a:hover{
+  background-color: white;
+  color: black;
+}
+p{
+  font-size: 20px;
+  font-family: verdana;
+}
